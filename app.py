@@ -150,6 +150,3 @@ if st.button("Find My Answer"):
 
     else:
         st.warning("Please enter a question.")
-
-
-## groq key = "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"
